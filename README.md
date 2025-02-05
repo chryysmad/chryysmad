@@ -1,6 +1,7 @@
 ## Hello! 🌱
 
-<img src="assets/image.png" width="150" align="right">
+<img src="assets/image.png" width="150" align="right" style="padding-top: 20px;">
+
 
 ```python
 class AboutMe:

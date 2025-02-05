@@ -1,5 +1,6 @@
 ## Hello! 🌱
 
+<img src="assets/profile.png" width="90" align="right">
 <img src="assets/image.png" width="150" align="right">
 
 ```python

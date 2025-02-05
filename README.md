@@ -1,5 +1,7 @@
 ## Hello! 🌱
 
+<img src="assets/image.png" width="100" align="right">
+
 ```python
 class AboutMe:
   user = 'Chrysanthi'

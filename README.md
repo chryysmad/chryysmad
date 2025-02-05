@@ -1,6 +1,8 @@
 ## Hello! 🌱
 
-<img src="assets/image.png" width="150" align="right">
+<div align="left">
+    <img src="assets/image.png" width="150">
+</div>
 
 ```python
 class AboutMe:

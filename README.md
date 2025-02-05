@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hello! 🌱
+
+```python
+class AboutMe:
+  user = 'Chrysanthi'
+  occupation  = 'BSc (Hons) Student'
+  hobbies = [
+    'Watching films',
+    'Reading',
+    'Playing the drums'
+  ]
+
+ def getPronouns():
+   return she_her()
+
+ def getLocation():
+   return Groningen_Netherlands()
+	
+ ```
 
 <!--
 **chryysmad/chryysmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

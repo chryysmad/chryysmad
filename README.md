@@ -1,26 +1,32 @@
 ## Hello! 🌱
 
-<div align="left">
-    <img src="assets/image.png" width="150">
-</div>
+<!-- Wrap everything in a div -->
+<div style="display: flex; align-items: flex-end;">
 
-```python
+  <!-- Left-aligned image at the bottom -->
+  <img src="assets/image.png" width="150" style="margin-right: 20px;">
+
+  <!-- Code block -->
+  <pre>
+  <code>
 class AboutMe:
-  user = 'Chrysanthi'
-  occupation  = 'BSc (Hons) Student'
-  hobbies = [
-    'Watching films',
-    'Reading',
-    'Playing the drums'
-  ]
+    user = 'Chrysanthi'
+    occupation = 'BSc (Hons) Student'
+    hobbies = [
+        'Watching films',
+        'Reading',
+        'Playing the drums'
+    ]
 
- def getPronouns():
-   return she_her()
+def getPronouns():
+    return she_her()
 
- def getLocation():
-   return Groningen_Netherlands()
-	
- ```
+def getLocation():
+    return Groningen_Netherlands()
+  </code>
+  </pre>
+
+</div>
 
 <!--
 **chryysmad/chryysmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

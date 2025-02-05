@@ -1,7 +1,9 @@
 ## Hello! 🌱
 
-<img src="assets/profile.png" width="90" align="right">
-<img src="assets/image.png" width="150" align="right">
+<div style="display: flex; flex-direction: column; align-items: flex-end;">
+    <img src="assets/profile.png" width="90">
+    <img src="assets/image.png" width="150">
+</div>
 
 ```python
 class AboutMe:

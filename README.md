@@ -1,6 +1,6 @@
 ## Hello! 🌱
 
-<img src="assets/image.png" width="150" align="right" style="padding-top: 20px;">
+<img src="assets/image.png" width="150" align="right" style="padding-top: 200px;">
 
 
 ```python

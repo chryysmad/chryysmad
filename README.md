@@ -1,28 +1,22 @@
-# Hello! 🌱
+## Hello! 🌱
 
-<!-- Wrap everything in a div -->
-<div style="display: flex; align-items: flex-end;">
+<img src="assets/image.png" width="150" align="right">
 
-  <!-- Code block -->
-  <pre>
-  <code>
+```python
 class AboutMe:
-    user = 'Chrysanthi'
-    occupation = 'BSc (Hons) Student'
-    hobbies = [
-        'Watching films',
-        'Reading',
-        'Playing the drums'
-    ]
+  user = 'Chrysanthi'
+  occupation  = 'BSc (Hons) Student'
+  hobbies = [
+    'Watching films',
+    'Reading',
+    'Playing the drums'
+  ]
 
-def getPronouns():
-    return she_her()
+ def getPronouns():
+   return she_her()
 
-def getLocation():
-    return Groningen_Netherlands()
-  </code>
-  </pre>
+ def getLocation():
+   return Groningen_Netherlands()
+	
+ ```
 
-  <!-- Left-aligned image at the bottom -->
-  <img src="assets/image.png" width="150" style="margin-left: 20px;">
-</div>

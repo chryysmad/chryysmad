@@ -13,11 +13,19 @@ class AboutMe:
     'Playing the drums'
   ]
 
- def getPronouns():
-   return she_her()
+ def getLanguages():
+   return [
+     'Python',
+     'Java'
+   ]
 
- def getLocation():
-   return Groningen_Netherlands()
+ def getCurrentTopFourFilms():
+   return [
+     'Alpha (2024)',
+     'La Chimera (2023)',
+     'Shiva Baby (2020)',
+     'The Umbrellas of Chesbourgh (1964)'
+   ]
 	
  ```
 

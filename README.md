@@ -6,7 +6,6 @@
 ```python
 class AboutMe:
   user = 'Chrysanthi'
-  occupation  = 'BSc (Hons) Student'
   hobbies = [
     'Watching films',
     'Reading',
@@ -26,6 +25,5 @@ class AboutMe:
      'Shiva Baby (2020)',
      'The Umbrellas of Chesbourgh (1964)'
    ]
-	
  ```
 

@@ -7,9 +7,9 @@
 class AboutMe:
   user = 'Chrysanthi'
   hobbies = [
-    'Watching films',
+    'Watching Films',
     'Reading',
-    'Playing the drums'
+    'Playing the Drums'
   ]
 
  def getLanguages():
@@ -20,9 +20,9 @@ class AboutMe:
 
  def getCurrentTopFourFilms():
    return [
-     'Alpha (2024)',
-     'La Chimera (2023)',
-     'Shiva Baby (2020)',
+     'Wind, Talk To Me (2025)',
+     'The Prince of Egypt (1998)',
+     'Dinner In America (2020)',
      'The Umbrellas of Chesbourgh (1964)'
    ]
  ```
